@@ -10,3 +10,4 @@ You should be able to achieve these goals at the end of the game:
  3  Once the player loses the ball, i.e. when the ball touches the bottom of the window, the game ends.
  4  Breaking each brick should provide the player a certain score. Let’s say each brick contains 5 points, if a player breaks 10 such bricks, he gets a score of 50.
  5  At the end of the game, the terminal will present the player’s final score and give him the option to restart the game again.
+![ME_ME_PROJECT_BREAKOUT_JAVA_MODULE_ME_PROJECT_BREAKOUT_JAVA_MODULE_BREAKOUT_JAVA_demo](https://github.com/user-attachments/assets/9f27f104-1ed7-484a-83ba-feb6dfb656d7)
